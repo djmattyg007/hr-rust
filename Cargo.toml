@@ -1,5 +1,5 @@
 [package]
-name = "hr-rust"
+name = "hr"
 version = "1.0.0"
 authors = ["Matthew Gamble <git@matthewgamble.net>"]
 edition = "2018"
